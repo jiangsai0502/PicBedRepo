@@ -1,2 +1,0 @@
-# PicBedRepo
-图床
